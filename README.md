@@ -9,3 +9,17 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/masiha-mohammadpour)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:masihmooohmmadpoor@gmail.com)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://me-virid-chi.vercel.app/)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="sky-night.svg" />
+    <img src="sky.svg" width="900" alt="" />
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="garden-footer-night.svg" />
+    <img src="garden-footer.svg" width="900" alt="" />
+  </picture>
+</div>
