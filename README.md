@@ -1,1 +1,1 @@
-![My GitHub Terminal Stats](./github_stats.svg)
+![My GitHub Terminal Stats](https://raw.githubusercontent.com/Masiha-mohammadpoor/github-stats-terminal-style/master/github_stats.svg)
