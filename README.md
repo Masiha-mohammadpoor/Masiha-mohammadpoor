@@ -13,13 +13,13 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="sky-night.svg" />
-    <img src="sky.svg" width="900" height="50" alt="" />
+    <img src="sky.svg" width="900" height="100" alt="" />
   </picture>
 </div>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="garden-footer-night.svg" />
-    <img src="garden-footer.svg" width="900" height="50" alt="" />
+    <img src="garden-footer.svg" width="900" height="100" alt="" />
   </picture>
 </div>
