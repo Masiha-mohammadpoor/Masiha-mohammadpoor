@@ -1,1 +1,1 @@
-![My GitHub Terminal Stats](assets/github_stats.svg)
+![My GitHub Terminal Stats](./github_stats.svg)
